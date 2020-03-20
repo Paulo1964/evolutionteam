@@ -34,7 +34,14 @@
 <thumbnail>https://image.tmdb.org/t/p/original/zOWD9ybgjP9gnaozgaRQvGTlWbQ.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg</fanart>
 <info>Um advogado arrisca a sua carreira e família para descobrir um segredo sombrio escondido por uma das maiores empresas do mundo (a americana DuPont) e levar a justiça a uma comunidade perigosamente exposta ao longo de décadas a produtos químicos mortais.</info>
-<info> - Equipa Técnica Principal - </info>
+<dl>
+  <dt>Título 1</dt>
+  <dd>Definição 1</dd>
+  <dt>Título 2</dt>
+  <dd>Definição 2</dd>
+  <dt>Título 3</dt>
+  <dd>Definição 3</dd>
+</dl>
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
