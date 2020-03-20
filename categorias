@@ -1,6 +1,22 @@
+
 <channels>
 <channel>
-<name>[COLOR white]FILMES[/COLOR]</name>
+<name>[COLOR white]FILMES 2020[/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/26/items/filmes_20200317/filmes1.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
+<fanart>https://ia601502.us.archive.org/29/items/entrada_20200317/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]FILMES 2019[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/filmes_20200317/filmes1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202019</externallink>
 <fanart>https://ia601502.us.archive.org/29/items/entrada_20200317/fanart.jpg</fanart>
