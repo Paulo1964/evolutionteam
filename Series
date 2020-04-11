@@ -1,3 +1,17 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]MA[/B][/COLOR][COLOR red][B]X[/B][/COLOR][COLOR lime][B]IMUS[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/bem%20vindos.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
+<info>[COLOR aqua] - Levando o lazer e o prazer para assistir e curtir cada momento com a familia e amigos. -Repositorio MAXIMUS levando os melhores filmes e series a sua familia e aos quatro cantos do Mundo!!! [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <item>
 <title>[COLOR white][B]The Main Event (2020)[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1csrKHRHz5uoeaVQ0kpzKmbq_7-oWwOZu/view?usp=sharing?usp=drivesdk</link>
