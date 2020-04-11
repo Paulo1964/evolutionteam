@@ -1,14 +1,14 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES 2020[/COLOR]</name>
+<name>[COLOR firebrick][B]FILMES 2020[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink][B] - OS MELHORES FILMES - [/B][/COLOR]</info>
 </channel>
 </channels>
 
@@ -16,14 +16,14 @@
 
 <channels>
 <channel>
-<name>[COLOR white]FILMES 2019/18/17[/COLOR]</name>
+<name>[COLOR white][B]FILMES 2019/18/17[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202019</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink][B] - OS MELHORES FILMES - [/B][/COLOR]</info>
 </channel>
 </channels>
 
@@ -31,14 +31,14 @@
 
 <channels>
 <channel>
-<name>[COLOR white]SÉRIES[/COLOR]</name>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/SERIES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink][B] - AS MELHORES SÉRIES - [/B][/COLOR]</info>
 </channel>
 </channels>
 
@@ -46,14 +46,14 @@
 
 <channels>
 <channel>
-<name>[COLOR white]ANIMAÇÃO[/COLOR]</name>
+<name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/animcao.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ANIMAÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink][B] - ANIMAÇÃO - [/B][/COLOR]</info>
 </channel>
 </channels>
 
