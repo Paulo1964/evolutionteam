@@ -1,6 +1,21 @@
 
 <channels>
 <channel>
+<name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
+<thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
+<fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink][B] Todo o conteúdo aqui encontrado pode ser facilmente encontrado pela internet, nosso trabalho é apenas armazenar todo este conteúdo em um banco de dados próprio e disponibiliza-los de forma mais "confortável" aos interessados nesse tipo de conteúdo. Entretando, qualquer plágio das páginas aqui encontradas estarão sujeitas a represárias. [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR white][B]FILMES 2020[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
