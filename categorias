@@ -37,9 +37,9 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B] LANÇAMENTOS [/B][/COLOR]</name>
+<name>[COLOR lime][B] FILMES MARVEL [/B][/COLOR]</name>
 <thumbnail>https://ia601504.us.archive.org/3/items/marvel_20200826/MARVEL.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/lancamentos</externallink>
+<externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/marvel</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
 <info>[COLOR deeppink][B] Filmes Lançamentos são filmes que foram lançados recentemente no cinema e muitos desejam assistir. [/B][/COLOR]</info>
 </channel>
