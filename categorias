@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime][B] LANÇAMENTOS [/B][/COLOR]</name>
+<name>[COLOR lime][B]»» LANÇAMENTOS ««[/B][/COLOR]</name>
 <thumbnail>https://ia601507.us.archive.org/35/items/lancamentos_202004/lancamentos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/lancamentos</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B] FILMES 2020 [/B][/COLOR]</name>
+<name>[COLOR white][B]»» FILMES 2020 ««[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B] FILMES 2019/18/17 [/B][/COLOR]</name>
+<name>[COLOR white][B]»» FILMES 2019/18/17 ««[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202019</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -37,7 +37,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B] FILMES MARVEL [/B][/COLOR]</name>
+<name>[COLOR white][B]»» FILMES MARVEL ««[/B][/COLOR]</name>
 <thumbnail>https://ia601507.us.archive.org/7/items/marvel_20200827/MARVEL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/marvel</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -49,7 +49,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B] ANIMAÇÃO [/B][/COLOR]</name>
+<name>[COLOR white][B]»» ANIMAÇÃO ««[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/animcao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Animacao</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
