@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]»» FILMES 2019/18/17 ««[/B][/COLOR]</name>
+<name>[B][COLOR lime]»»[/B][/COLOR] [B][COLOR white] FILMES 2019/18/17 [/B][/COLOR] [B][COLOR lime]««[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202019</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -37,7 +37,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]»» FILMES MARVEL ««[/B][/COLOR]</name>
+<name>[B][COLOR lime]»»[/B][/COLOR] [B][COLOR white] FILMES MARVEL [/B][/COLOR] [B][COLOR lime]««[/B][/COLOR]</name>
 <thumbnail>https://ia601507.us.archive.org/7/items/marvel_20200827/MARVEL.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/marvel</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -49,7 +49,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]»» ANIMAÇÃO ««[/B][/COLOR]</name>
+<name>[B][COLOR lime]»»[/B][/COLOR] [B][COLOR white] ANIMAÇÃO [/B][/COLOR] [B][COLOR lime]««[/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/29/items/series_20200321/animcao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Animacao</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
@@ -61,7 +61,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white][B]»» SÉRIES ««[/B][/COLOR]</name>
+<name>[B][COLOR lime]»»[/B][/COLOR] [B][COLOR white] SÉRIES [/B][/COLOR] [B][COLOR lime]««[/B][/COLOR]</name>
 <thumbnail>https://ia802907.us.archive.org/22/items/series_20200321/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Series</externallink>
 <fanart>https://ia801505.us.archive.org/29/items/series_20200321/fanart.jpg</fanart>
