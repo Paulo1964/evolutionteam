@@ -1,3 +1,15 @@
+<channels>
+<channel>
+<name>[B][COLOR lime]»»[/B][/COLOR][B] [COLOR white] FILMES 2020 [/B][/COLOR] [B][COLOR lime]««[/B][/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/4/items/icon_20201013/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Paulo1964/evolutionteam/master/Filmes%202020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR deeppink][B] Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro Sistema. [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <item>
 <title>[COLOR white][B] Hubie Halloween (2020) [/B][/COLOR]- [COLOR lime](Full HD)[/COLOR] »LEGENDADO«</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xSemL1_QXFZO8GQTga-SR4ml2ep534Lh/view?usp=sharing?usp=drivesdk</link>
